@@ -122,11 +122,7 @@ form-validation-assignment/
 
 ``` 
 
-  
 
-## Screenshots 
-
-*(Include screenshots of the form in action, displaying error messages when invalid inputs are provided, and the successful submission message.)* 
 
   
 
